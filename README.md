@@ -161,7 +161,8 @@ The project has a robust and well-structured backend.
   - **Modern UI/UX Animations:** GSAP animations enhance interactivity.  
   - **Debounced Saving:** Saves notes after typing pauses to optimize server performance.
 
-    
+---
+
 ## Features
 
 - **Real-Time Collaboration**: Multiple users can edit notes simultaneously with changes reflected instantly
